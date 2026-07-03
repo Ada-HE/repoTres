@@ -1,0 +1,7 @@
+README.md
+setup.py
+repoTres/__init__.py
+repoTres.egg-info/PKG-INFO
+repoTres.egg-info/SOURCES.txt
+repoTres.egg-info/dependency_links.txt
+repoTres.egg-info/top_level.txt
